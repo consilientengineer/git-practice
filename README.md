@@ -5,3 +5,4 @@
 neq-fearue branch
 conflict branch
 github 上で更新
+conflict remote
