@@ -4,4 +4,6 @@
 
 neq-fearue branch
 conflict branch
-github 上で更新 2回目
+<<<<<<< HEAD
+github 上で更新
+conflict remote
