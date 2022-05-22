@@ -11,3 +11,5 @@ conflict remote
 rebase
 
 rebase conflict
+
+rebase pull remote
