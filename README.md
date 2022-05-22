@@ -16,3 +16,5 @@ rebase pull remote
 stash conflict
 
 stash 2
+
+git stash 2
