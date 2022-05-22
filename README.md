@@ -7,3 +7,5 @@ conflict branch
 <<<<<<< HEAD
 github 上で更新
 conflict remote
+
+rebase
