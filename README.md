@@ -13,3 +13,4 @@ rebase
 rebase conflict
 
 rebase pull remote
+stash conflict
